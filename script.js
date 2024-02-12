@@ -17,7 +17,7 @@ function calcPct(x,y) {
 }
 
 
-var username = prompt("Olá, seja bem vinda a 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝗱𝗼𝗿𝗮 𝗱𝗲 𝗣𝗼𝗿𝗰𝗲𝗻𝘁𝗮𝗴𝗲𝗻𝘀 𝗱𝗼 𝗕𝗿𝘂𝗻𝗼. Para iniciarmos, me fale o seu nome.")
+var username = prompt("Olá, seja bem vindo a 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝗱𝗼𝗿𝗮 𝗱𝗲 𝗣𝗼𝗿𝗰𝗲𝗻𝘁𝗮𝗴𝗲𝗻𝘀. Para iniciarmos, me fale o seu nome.")
 var x = prompt(`Certo, ${username}, qual o valor 𝘁𝗼𝘁𝗮𝗹 que você tem?`);
 var y = prompt(`Agora ${username}, qual a 𝗽𝗼𝗿𝗰𝗲𝗻𝘁𝗮𝗴𝗲𝗺 que você quer saber?`);
 var resultado = calcPct(x,y);
